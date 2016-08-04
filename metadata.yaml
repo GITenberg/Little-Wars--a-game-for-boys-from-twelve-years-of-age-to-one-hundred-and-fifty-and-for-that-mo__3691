@@ -1,0 +1,27 @@
+_repo: Little-Wars--a-game-for-boys-from-twelve-years-of-age-to-one-hundred-and-fifty-and-for-that-mo__3691
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'U'
+- !lcsh 'War games'
+- GITenberg
+title: Little Wars; a game for boys from twelve years of age to one hundred and fifty
+  and for that more intelligent sort of girl who likes boys' games and books.
+url: http://www.gutenberg.org/ebooks/3691
